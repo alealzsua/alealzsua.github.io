@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "TRIAL ON CASH"
 title_separator          : "-"
 name                     : &name "Alejandro"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Alejandro Alzahrawi
-  avatar           : "ME.png"
+  avatar           : "ME.jpg"
   bio              : "International Business Economics at UPF"
   location         : "Barcelona, Spain"
   employer         :
